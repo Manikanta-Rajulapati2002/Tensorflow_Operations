@@ -1,4 +1,5 @@
-# README
+# Manikanta Rajulapati
+# 700762001
 
 ## Overview
 This repository contains multiple Jupyter Notebooks related to TensorFlow operations, model training, and optimization techniques. Below is a summary of each notebook:
@@ -110,7 +111,9 @@ model = Sequential([
 ## Requirements
 To run these notebooks, install the required dependencies using:
 ```bash
-pip install tensorflow matplotlib
+pip install tensorflow
+pip install matplotlib
+
 ```
 
 ## Usage
